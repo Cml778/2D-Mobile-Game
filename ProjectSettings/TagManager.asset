@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bomb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enviroment
+  - NPC
+  - Bomb
+  - FX
+  - Player
+  - Jiance
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 976995771
+    locked: 0
+  - name: platform
+    uniqueID: 641718657
+    locked: 0
+  - name: NPC
+    uniqueID: 3589366225
+    locked: 0
+  - name: FX
+    uniqueID: 308493779
+    locked: 0
